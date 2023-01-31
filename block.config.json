@@ -1,0 +1,8 @@
+{
+  "name": "hackerHouse",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/Sahilk111/hackerHouse",
+    "ssh": "git@github.com:Sahilk111/hackerHouse.git"
+  }
+}
